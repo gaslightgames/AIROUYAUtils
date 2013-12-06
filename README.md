@@ -1,6 +1,8 @@
 AIROUYAUtils
 ============
 
+DEPRECATED!  Use the Facade Extension instead: https://github.com/gaslightgames/AIROUYAFacade
+
 Utilities Native Extension for the OUYA Console when developing with Adobe AIR.
 
 Four Folders:
